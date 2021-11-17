@@ -5,7 +5,7 @@ package ru.proektbg.patterns.creational.factory;
  */
 public class Lada extends Car{
 
-    protected Lada() {
+    Lada() {
     }
 
     @Override

@@ -5,7 +5,7 @@ package ru.proektbg.patterns.creational.factory;
  */
 public class Mercedes extends Car{
 
-    protected Mercedes() {
+    Mercedes() {
     }
 
     @Override

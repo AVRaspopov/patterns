@@ -5,7 +5,7 @@ package ru.proektbg.patterns.creational.factory;
  */
 public class Ferrari extends Car{
 
-    protected Ferrari() {
+    Ferrari() {
     }
 
     @Override
